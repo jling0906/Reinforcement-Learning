@@ -1,0 +1,18 @@
+gym
+numpy
+keras
+#tensorflow
+
+# for image resizing and cropping, see import PIL
+pillow
+# A python library to the HDF5 binary data format
+h5py
+
+protobuf>=3.0
+attrs
+matplotlib
+pydot-ng
+scipy
+semver
+-e .
+
