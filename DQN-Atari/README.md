@@ -9,3 +9,5 @@ Run the following commands:
 5. pip install gym[atari]
 6. brew install ffmpeg
 7. python main.py
+
+![image](https://github.com/jling0906/Reinforcement-Learning/blob/master/DQN-Atari/videos/openaigym.video.100.6311.video000000.gif)
